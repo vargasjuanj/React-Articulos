@@ -56,6 +56,7 @@ this.setState({[e.target.name]:e.target.value})
     <Nav.Link href="/detalle/1" className="mr-sm-2">MAS BARATO</Nav.Link>
   </Navbar>
             </div>
+            
         )
     }
 }
